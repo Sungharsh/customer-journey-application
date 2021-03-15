@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import QUESTIONS from './servayData'
+import QUESTIONS from './surveyData'
 import './App.css'
 
 export default function App() {

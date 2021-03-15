@@ -1,12 +1,12 @@
 .App {
   text-align: center;
   width: 450px;
-  min-height: 100vh;
+  min-height: 85vh;
   height: min-content;
   border-radius: 15px;
   padding: 20px;
   box-shadow: 10px 10px 42px 0px rgba(0, 0, 0, 0.75);
-  margin: 0 auto;
+  margin: 15px auto;
 }
 .customerWrapper {
   padding: 20px;
